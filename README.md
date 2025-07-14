@@ -1,4 +1,4 @@
-# 📊 Artificial Intelligence & Machine Learning Project
+# 📊 Artificial Intelligence & Machine Learning Projects
 
 This repository contains two structured assignments focused on:
 
