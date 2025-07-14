@@ -66,5 +66,5 @@ Build and evaluate a **Linear Regression** model to predict housing prices based
 
 - `pandas`, `numpy` – data processing
 - `scikit-learn` – model training and evaluation
--  
+  
 ---
