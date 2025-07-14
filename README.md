@@ -9,18 +9,6 @@ Each assignment is implemented in Python with clear documentation, reproducible 
 
 ---
 
-## 📁 Repository Structure
-
-├── SET4_Employee_Analysis/
-│ ├── synthetic_employee_dataset.csv
-│ ├── employee_analysis.ipynb
-│
-├── SET5_Housing_Price_Prediction/
-│ ├── housing.csv
-│ ├── housing_price_prediction.ipynb
-│
-└── README.md
-
 ## 🔍 Assignment 1 — Employee Dataset Exploration (SET 4)
 
 ### 📌 Objective
