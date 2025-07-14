@@ -1,4 +1,4 @@
-# 📊 Data Analysis & Machine Learning Projects
+# 📊 Artificial Intelligence & Machine Learning Project
 
 This repository contains two structured assignments focused on:
 
